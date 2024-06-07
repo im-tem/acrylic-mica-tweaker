@@ -5,6 +5,8 @@
 // @version         0.1
 // @author          im-tem
 // @github          https://github.com/im-tem/
+// @include         explorer.exe
+// @include         dwm.exe
 // @include         *
 // @compilerOptions -lcomdlg32
 // ==/WindhawkMod==
